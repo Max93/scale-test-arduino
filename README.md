@@ -8,4 +8,4 @@
 ## Results:
 ![result](https://user-images.githubusercontent.com/3720947/93474213-57b03e00-f8f7-11ea-8fc2-63cdfc37985b.png)
 
-Thanks to @gioclava patience.
+Thanks to https://github.com/gioclava patience.
